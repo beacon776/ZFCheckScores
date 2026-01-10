@@ -111,7 +111,7 @@
 
 当你的 Secrets 添加完成后，你的页面应该与下图所示的页面完全一致或几乎一致
 
-<img src="https://raw.githubusercontent.com/NianBroken/ZFCheckScores/main/img/21.png" width="60%"/>
+<img src="https://raw.githubusercontent.com/coolarec/ZFCheckScores/main/img/21.png" width="60%"/>
 
 ## 4. 开启 Actions
 
